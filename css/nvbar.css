@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 170px;
+}
+
+.head{
+    color: blue;
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin-left: 60px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.txt{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
